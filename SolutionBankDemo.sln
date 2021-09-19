@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankMain", "BankMain\BankMain.csproj", "{7E2FAFB2-4E29-47C7-AD62-51302465CEB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2FAFB2-4E29-47C7-AD62-51302465CEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2FAFB2-4E29-47C7-AD62-51302465CEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2FAFB2-4E29-47C7-AD62-51302465CEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2FAFB2-4E29-47C7-AD62-51302465CEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {351DF8D1-614C-472F-9491-964203595170}
+	EndGlobalSection
+EndGlobal

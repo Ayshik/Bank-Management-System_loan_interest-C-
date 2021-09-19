@@ -1,0 +1,355 @@
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\bin\Debug\BankMain.pdb
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.pdb
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Transaction.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Transaction.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Updateinfo.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.AccountDetails.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.JointAccount.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.StudentAccount.resources
+C:\Users\User\Desktop\C#\PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.AccountDetails.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.JointAccount.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Transaction.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Updateinfo.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.StudentAccount.resources
+C:\Users\User\Desktop\C#\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.pdb
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.AccountDetails.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.JointAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Transaction.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Updateinfo.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.StudentAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\Downloads\Temp\1\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.AccountDetails.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.JointAccount.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Transaction.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Updateinfo.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.StudentAccount.resources
+C:\Users\User\Desktop\C#\Project work\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\bin\Debug\BankMain.pdb
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.AccountDetails.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.JointAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Transaction.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.Updateinfo.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.StudentAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\Updated PROJECT FINAL DEMO 1\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.AccountDetails.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.JointAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Transaction.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.Updateinfo.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.StudentAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.2\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.AccountDetails.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeductLoan.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Updateinfo.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.StudentAccount.resources
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe.config
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.pdb
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.AccountDetails.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Accountant.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Cashier.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ChangePassword.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.CreateAccount.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeductLoan.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Home.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Information.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.LoanManager.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewDetails.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Updateinfo.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.StudentAccount.resources
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.exe
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.pdb
+E:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csprojAssemblyReference.cache
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe.config
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.pdb
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csprojAssemblyReference.cache
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.AccountDetails.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Accountant.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Cashier.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ChangePassword.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.CreateAccount.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeductLoan.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Home.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Information.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.LoanManager.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewDetails.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Updateinfo.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.StudentAccount.resources
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.GenerateResource.cache
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.exe
+D:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.pdb
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe.config
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.exe
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\bin\Debug\BankMain.pdb
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csprojAssemblyReference.cache
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.AccountDetails.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ManagerTransection.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.PersonalAccount.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Accountant.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Cashier.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ChangePassword.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.CreateAccount.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeductLoan.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Home.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Information.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Loan_Manager_Palel.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.LoanManager.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewDetails.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.ViewLoanDetails.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.Updateinfo.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.SavingsAccount.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.StudentAccount.resources
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.GenerateResource.cache
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.exe
+F:\AIUB\C#\Project work\Ayshik 2.3\BankMain\obj\Debug\BankMain.pdb

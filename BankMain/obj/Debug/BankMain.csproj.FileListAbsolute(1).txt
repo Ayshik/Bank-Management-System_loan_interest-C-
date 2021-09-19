@@ -1,0 +1,58 @@
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\bin\Debug\BankMain.pdb
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.pdb
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\MD SHIHAB UDDIN\source\repos\SolutionBankDemo\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\BankMain.pdb
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\SolutionBankDemo\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe.config
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\bin\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.csprojResolveAssemblyReference.cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.Accountant.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.Cashier.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.ChangePassword.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.CreateAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.DeleteAccount.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.Home.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.Information.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.LoanManager.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.Properties.Resources.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.ViewDetails.resources
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.GenerateResource.Cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.csproj.CoreCompileInputs.cache
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.exe
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\obj\Debug\BankMain.pdb
+C:\Users\MD SHIHAB UDDIN\Downloads\Compressed\SolutionBankDemo\BankMain\bin\Debug\BankMain.pdb
